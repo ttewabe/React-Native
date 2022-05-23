@@ -1,4 +1,4 @@
-import React, { Component, useEffect } from 'react';
+import React, { Component} from 'react';
 import { Card, Icon, Rating, Input } from 'react-native-elements';
 import {
     Modal,
